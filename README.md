@@ -6,8 +6,8 @@
       <td><b>🧪 Desenvolvedora de Testes</b></td>
     </tr>
     <tr>
-      <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
+      <td><img src="https://github.com/ailton-santos/Python_Math/blob/main/math-thinking.gif" width="300px" height="170px"></td>
       <td><img src="img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" height="170px"> </td>
     </tr>
   </table>
-<" width="300px" height="170px"
+
