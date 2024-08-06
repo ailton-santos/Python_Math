@@ -10,3 +10,4 @@
       <td><img src="https://tenor.com/pt-BR/view/math-thinking-calculating-zachgalifianakis-the-hangover-gif-4774531 height="170px"> </td>
     </tr>
   </table>
+<img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"
