@@ -9,13 +9,13 @@
       <td><img src="https://github.com/ailton-santos/Python_Math/blob/main/math-thinking.gif" width="300px" height="170px"></td>
       <td>
     - Basic operations; <br>
-    - Matrices;
-    - Functions;
-    - Equations; 
-    - Systems of equations and inequalities;
-    - Operations with complex numbers;
-    - Cconstruction of Graphs;
-    - Differential and integral calculus;
+    - Matrices;<br>
+    - Functions;<br>
+    - Equations; <br>
+    - Systems of equations and inequalities;<br>
+    - Operations with complex numbers;<br>
+    - Cconstruction of Graphs;<br>
+    - Differential and integral calculus;<br>
     - Numerical calculation (zero functions). </td>
     </tr>
   </table>
